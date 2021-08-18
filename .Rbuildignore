@@ -10,4 +10,7 @@
 ^pkgdown$
 ^doc$
 ^Meta$
+^d.ts$
 LICENSE.md
+CONTRIBUTING.md
+.lintr
