@@ -33,8 +33,7 @@ Suggests:
     knitr,
     rmarkdown,
     markdown
-VignetteBuilder:
-    knitr
+VignetteBuilder: knitr
 Encoding: UTF-8
 NeedsCompilation: yes
 Roxygen: list(markdown = TRUE)
