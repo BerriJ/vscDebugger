@@ -21,8 +21,7 @@ Authors@R: c(
         email = "toth.denes@kogentum.hu", 
         comment = c(ORCID = "0000-0003-4262-3217")
     ))
-Description: Provides support for a visual studio code
-    debugger
+Description: Provides support for a visual studio code debugger.
 License: MIT
 URL: https://ManuelHentschel.github.io/vscDebugger/,
     https://github.com/ManuelHentschel/vscDebugger
