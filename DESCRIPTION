@@ -23,10 +23,8 @@ Authors@R: c(
     ))
 Description: Provides support for a visual studio code debugger.
 License: MIT
-URL: https://ManuelHentschel.github.io/vscDebugger/,
-    https://github.com/ManuelHentschel/vscDebugger
-BugReports: 
-    https://github.com/ManuelHentschel/vscDebugger/issues
+URL: https://ManuelHentschel.github.io/vscDebugger/, https://github.com/ManuelHentschel/vscDebugger
+BugReports: https://github.com/ManuelHentschel/vscDebugger/issues
 Imports:
     jsonlite,
     R6
